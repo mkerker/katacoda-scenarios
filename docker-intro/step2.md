@@ -33,6 +33,8 @@ Docker is a client-server application.
 #### Step 1: Hello World
 
 In your Docker environment, just run the following command:
+`docker run busybox echo hello world`  {{execute}}
+
 ```
 $ docker run busybox echo hello world {{execute}}
 
