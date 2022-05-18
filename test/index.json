@@ -1,13 +1,13 @@
 {
-  "title": "test",
-  "description": "test",
+  "title": "Dit is een test",
+  "description": "Een test",
   "difficulty": "Beginner",
   "time": "60",
   "details": {
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "step1.md",
         "code": "step1.sh"
       }
     ],
